@@ -1,0 +1,389 @@
+{
+  "label": {
+    "languagesettings": "Language Settings",
+    "selectlanguage": "Select the language in which you want to use the system",
+    "hello": "Hello",
+    "support": "Support Investigation Mode",
+    "supporttext": "When this is set to active, the support representative will be able to access and view your data. Once you have deactivated this mode, <strong>the representative will still be able to access and view your data</strong> until the current session has expired, maximum <strong>30 minutes from the time it was activated by the support representative</strong>.",
+    "supportselection": "Choose the user you would like to support",
+    "supportconfirmation": "Are you sure you want to switch to this user's account?",
+    "supportmessage": "You are in support mode",
+    "cancelsupport": "Cancel support session",
+    "active": "Active",
+    "inactive": "Inactive",
+    "welcome": "Welcome",
+    "next": "Next",
+    "previous": "Previous",
+    "cancel": "Cancel",
+    "submit": "Submit",
+    "pleasewait": "PLEASE WAIT",
+    "sortby": "SORT BY",
+    "firstname": "First name",
+    "lastname": "Last name",
+    "openPosition": "Open position",
+    "directReports": "Direct reports",
+    "me": "Me",
+    "directreports": "{{count}} direct reports",
+    "directreportsSingle": "1 direct report",
+    "noaccessmodule": "Content not visible because employee does not have access to this module",
+    "solutions": "Solutions",
+    "notice": "Notice",
+    "fileCustomization": "File Customization",
+    "loading": "Loading...",
+    "confirm": "Confirm",
+    "apply": "Apply",
+    "reset": "Reset",
+    "complete": "Complete"
+  },
+  "languages": {
+    "de": "German",
+    "de-DE": "German",
+    "de-CH": "German (CH)",
+    "en": "English",
+    "en-US": "English",
+    "en-GB": "English (GB)",
+    "fr": "French",
+    "fr-FR": "French",
+    "it": "Italian",
+    "it-IT": "Italian",
+    "es": "Spanish",
+    "es-ES": "Spanish",
+    "pt": "Portuguese",
+    "pt-PT": "Portuguese",
+    "nl": "Dutch",
+    "nl-NL": "Dutch",
+    "lu": "Luxembourgian",
+    "lu-LU": "Luxembourgian",
+    "da": "Danish",
+    "da-DK": "Danish",
+    "zh-CN": "Chinese (simpl.)",
+    "ja": "Japanese",
+    "ja-JP": "Japanese",
+    "vi": "Vietnamese",
+    "vi-VN": "Vietnamese",
+    "hi": "Hindi",
+    "hi-IN": "Hindi",
+    "ar": "Arabic",
+    "ar-AE": "Arabic",
+    "bn": "Bengali",
+    "bn-BD": "Bengali",
+    "ru": "Russian",
+    "ru-RU": "Russian",
+    "tr": "Turkish",
+    "tr-TR": "Turkish",
+    "id": "Indonesian",
+    "id-ID": "Indonesian",
+    "sq": "Albanian",
+    "sq-AL": "Albanian",
+    "bg": "Bulgarian",
+    "bg-BG": "Bulgarian",
+    "el": "Greek",
+    "el-GR": "Greek",
+    "no": "Norwegian",
+    "no-NO": "Norwegian",
+    "sv": "Swedish",
+    "sv-SE": "Swedish",
+    "fi": "Finnish",
+    "fi-FI": "Finnish",
+    "ro": "Romanian",
+    "ro-RO": "Romanian",
+    "sk": "Slovakian",
+    "sk-SK": "Slovakian",
+    "cs": "Czech",
+    "cs-CZ": "Czech",
+    "hu": "Hungarian",
+    "hu-HU": "Hungarian",
+    "ko": "Korean",
+    "ko-KR": "Korean",
+    "pl": "Polish",
+    "pl-PL": "Polish",
+    "rm": "Romansh",
+    "rm-CH": "Romansh",
+    "sl": "Slovenian",
+    "sl-SI": "Slovenian",
+    "hr": "Croatian",
+    "hr-HR": "Croatian",
+    "zh-TW": "Chinese (trad.)",
+    "pt-BR": "Brazilian Portuguese",
+    "th": "Thai",
+    "th-TH": "Thai",
+    "uk": "Ukrainian",
+    "uk-UA": "Ukrainian"
+  },
+  "navigation": {
+    "support": "Support",
+    "settings": "Settings",
+    "general": "General",
+    "language": "Language",
+    "home": "Our People System",
+    "myteam": "MyTeam",
+    "mycontribution": "MyContribution",
+    "myfeedback": "MyFeedback",
+    "mydevelopment": "MyDevelopment",
+    "myprofile": "MyProfile",
+    "administration": "Administration",
+    "filesCustomization": "Files customization",
+    "dataPrivacy": "Data Privacy",
+		"consent": "Consent",
+    "dataConsent": "Consent for data processing",
+		"consentProfileViewing": "Consent for profile viewing",
+		"consentRecommendations": "Consent for recommendations",
+    "deleteExtendedData": "Delete extended data",
+    "downloadExtendedData": "Download extended data"
+  },
+	"discard": {
+		"title": "Discard changes",
+		"text": "You are about to leave without saving your changes. Are you sure you want to discard the changes?",
+		"cancel": "cancel",
+		"discardChanges": "Discard changes"
+	},
+  "settings": {
+    "files": {
+      "id_label": "id",
+      "path_label": "Path",
+      "operations_label": "Operations",
+      "updating_file_title": "Updating file",
+      "uploading_file_title": "Uploading file",
+      "update_label": "Update",
+      "choose_file_label": "Choose a file to replace",
+      "choose_file_btn": "Choose file",
+      "no_file_chosen": "No file chosen",
+      "reset_all_btn": "Reset all to defaults"
+    },
+    "delete_extended_data": {
+      "title": "Delete extended data MyProfile",
+      "content": "Here your Extended Profile Data can be deleted. Your Extended Profile Data is any additional content that you have entered via MyProfile. By clicking on delete you will irrevocably delete this data.",
+	  "content_no_data": "You currently have no extended profile data to delete.", 
+	  "delete": "Delete",
+	  "success": "Your extended data has been deleted",
+	  "error": "There was an error deleting your extended data",
+      "warning": {
+        "title": "Are you sure ?",
+        "text": "Your extended data will be deleted.",
+        "cancel": "Cancel",
+        "confirm": "Yes, I am sure"
+      }    
+    },
+    "download_extended_data": {
+      "title": "Download extended data MyProfile",
+	  "content": "Here your Extended Profile Data can be downloaded. Your Extended Profile Data is any additional content that you have entered via MyProfile.",
+	  "content_no_data": "You currently have no extended profile data to download.",
+      "download": "Download",
+      "confirmation_message": "Your extended data has been downloaded",
+      "error_message": "There was an error downloading your extended data"
+    },
+    "consent_data_procesing": {
+      "update_success": "Your consent setting has been updated.",
+      "update_error": "There was an error updating your consent setting."
+    },
+    "title": "Consent for data processing",
+    "subtitle": "Data privacy statement for MyProfile",
+    "actions": {
+      "agree": "<b>YES, I agree that the supplementary <i>MyProfile</i> data entered by me </b>will be processed for my person, my career and my interests as described above. Revocation is possible at any time via the personal settings in Impulse.",
+      "disagree": "<b>NO, I do not want any additional <i>MyProfile</i> data to be processed by the company.</b> Data fields that I may have previously filled in will now be irrevocably deleted with this declaration. If, however, at a later time I wish to give my consent, it will be possible to do this via the personal settings in Impulse."
+    },
+    "buttons": {
+      "cancel": "Cancel",
+      "confirm": "Confirm"
+    },
+    "confirmation": {
+      "title": "Are you sure?",
+      "text": "If you disagree, module data may be deleted or features may be disabled. Consult the decline text for more information.",
+      "confirm": "Yes, i am sure",
+      "cancel": "Cancel"
+    }
+  },
+  "teams": {
+    "contextual_menu": {
+      "make_team_leader_label": "Make Team Leader",
+      "make_team_admin_label": "Make Team Admin",
+      "remove_team_leader_label": "Remove Team Leader",
+      "remove_team_admin_label": "Remove Team Admin",
+      "remove_member_label": "Remove"
+    },
+    "header": {
+      "direct_reports": "DIRECT REPORTS",
+      "teams": "TEAMS"
+    },
+    "list": {
+      "search_label": "Search",
+      "connection_with_team_label": "Connection with the team: ",
+      "my_teams_checkbox": "Only teams I belong to",
+      "team_status_label": "Status: ",
+      "active_teams_checkbox": "Active teams",
+      "inactive_teams_checkbox": "Inactive teams",
+      "add_new_team_label": "Add new team",
+      "showing": "Showing {{count}} result of {{totalItems}}",
+      "filter": "Filter"
+    },
+    "overlay": {
+      "back_button": "Back"
+    },
+    "detail": {
+      "team_details_label": "Team details",
+      "team_lead_label": "Team Lead",
+      "team_admin_label": "Team Admin",
+      "team_admin_lead_label": "Team Admin & Lead",
+      "team_members_label": "Team Members"
+    },
+    "team_edit": {
+      "title": "Team Builder",
+      "name": {
+        "label": "Team name",
+        "placeholder": "Write a name for your team"
+      },
+      "members": {
+        "label": "Choose the team members. In the context menu you can define the team lead and team admins for added members.",
+        "placeholder": "Search by name or email address to add new team members",
+        "notfound": "We can’t find any person with this name"
+      },
+      "search": {
+        "title": "Start searching",
+        "description": "Share your contribution with colleagues so they can be aware of it and have the option to leave you comments!"
+      },
+      "validation": {
+        "name": "There is a Team already using this name."
+      },
+      "buttons": {
+        "save": "Save",
+        "update": "Update",
+        "cancel": "Cancel"
+      },
+      "error": {
+        "error_creating_team": "There was an error creating the team.",
+        "error_updating_team": "There was an error updating the team.",
+        "error_checking_name_availability": "There was an error checking the team name availability.",
+        "error_team_admin_required": "A team must have at least one team admin"
+      },
+      "messages": {
+        "team_creation_success": "The team {{teamName}} was created successfully.",
+        "team_update_success": "The team {{teamName}} was updated successfully."
+      }
+    },
+    "status": {
+      "inactive_label": "in-active",
+      "active_label": "active"
+    }
+  },
+  "reports": {
+    "reportsOf": "Direct Report of",
+    "filter_placeholder": "Search for name, position or department",
+    "filters": {
+      "department": "Department",
+      "position": "Position",
+      "name": "First name",
+      "last_name": "Last name"
+    },
+    "not_found": {
+      "title": "No match found",
+      "message": "Sorry, but we could not find anyone matching your search criteria."
+    }
+  },
+  "welcome": {
+    "buttons": {
+      "back": "back",
+      "remind": "remind me later"
+    },
+    "solutions": {
+      "daimler": {
+        "default": {
+          "title": "Welcome {{name}}",
+          "text": "<p>Welcome to the new Leadership2020 people tools! In this section you can find an overview on all solutions that focus on our people and their development. You can click on any of the icons to open it. To switch between the modules, you can also use the navigation bar on the top of each page. You can always navigate back to the main page by clicking on the <img src=\"/ui/design/home.svg\"> icon in the header.</p> <p>In your personal menu “Me” in the top right corner of the header you will find your Settings, the Help as well as the Logout button.</p>"
+        },
+        "myProfile": {
+          "title": "Welcome to MyProfile",
+          "text": "Your MyProfile page is your personal business card in terms of HR development processes. It already contains your basic contact information to which you may add your personal note. You can for example enclose information on your professional experience, education and certificates, languages, skills and professional interests. We recommend to fill out your MyProfile page in English."
+        },
+        "myTeam": {
+          "title": "Welcome to MyTeam",
+          "text": "In MyTeam you can take care of your Manager tasks with regards to your employee‘s Development, Contribution and Feedback. For that you can also view your employee’s profile page."
+        },
+        "myDevelopment": {
+          "title": "Welcome to MyDevelopment",
+          "text": "The MyDevelopment IT-Tool supports you to actively plan, steer and track your professional development. MyDevelopment Tracker supports you regarding the documentation of development goals and activities (planned, started and implemented) and regarding the tracking of the progress. The MyDevelopment Talks offer you an overview of all of your development dialogues with your manager, here you also have the possibility to prepare and document upcoming MyDevelopment Talks. This documentation includes all development-related agreements between you and your manager and as well as your in-depth discussions addressed to the OurPeople Conference. In OurPeopleConference Report you will find an overview of the OurPeople Conferences that discuss you in-depth and their feedback provided on your development question."
+        },
+        "myFeedback": {
+          "title": "Welcome to MyFeedback",
+          "text": "MyFeedback enables employees to receive multi-perspective and cross-hierarchical feedback on 10 statements in order to receive new perspectives on personal development and performance. The tool serves personal development which you discuss in the MyDevelopment Talks. MyFeedback results are one source of information for the OurPeople Conference – thus, MyFeedback is mandatory twice a year. Giving feedback is voluntary."
+        },
+        "marketplace": {
+          "title": "Welcome to Marketplace",
+          "text": "Marketplace provides access to various work opportunities, such as new jobs within the organization or interesting projects from your coworkers. Find your next development opportunity and achieve your career ambitions. Contribute to challenging projects of your coworkers and unleash your full potential. Connect with likeminded people and grow your professional network. Discover the right talents within the organization to drive and advance your own work challenges."
+        },
+        "myContribution": {
+          "title": "Welcome to MyContribution",
+          "text": "MyContribution empowers you to determine and measure your own contributions to the overall team performance by aligning the strategy in top priorities. This will help you to foster agility and stay focused in a changing and dynamic business environment. The IT system will support you in running the process step-by-step. In the tool MyContribution you see the contributions of your manager, you can document your own contributions as well as the progress of those."
+        },
+        "conference": {
+          "title": "Welcome to OurPeople Conference",
+          "text": "The OurPeople Conference tool is the facilitation element to run the OurPeople Conferences with your business partners. The access is only applicable to HR. Here you prepare and conduct the OurPeople Conferences. In more detail, the tool enables you to create conferences in the system with event specific data, to aggregate and to administrate a list of people to be shown and to be discussed in-depth in the conference and to document discussion notes. In the tab OurPeople you get access to the data of MyProfile, MyDevelopment and MyFeedback of the people in your responsibility."
+        }
+      },
+      "regular": {
+        "default": {
+          "title": "Welcome {{name}}",
+          "text": "Welcome to My Impact 2.0, the next step in our performance and development culture. My Impact helps you to bring your strengths to bear where they are needed and to coordinate your personal contribution with your work environment. You can get feedback and suggestions, and thus strengthen your own effect, tap new development potentials and thus constantly strengthen your employability. Here you will find an overview of all the possibilities My Impact 2.0 offers you."
+        },
+        "myTeam": {
+          "title": "Welcome in My Team",
+          "text": "In My Teams, you decide where you want to make which contributions. In this way you gather feedback from those colleagues and managers who can really assess your performance. Of course you can contribute to several different teams: your organizational team, project teams, small workgroups and up to a big agile tribe. Of course you can also create teams (but coordinate with your colleagues beforehand!)"
+        },
+        "myDevelopment": {
+          "title": "Welcome in My Development",
+          "text": "It is important for Swisscom that employees are continuously involved in their professional development and exchange ideas with colleagues, coaches and managers. The aim of the Development Checkpoints is to consciously take time at least once a year to reflect on and assess one's own professional development. In My Development, the development goals are recorded and, if necessary, the development dialogue is recorded too. Start the Development Checkpoint with self-reflection on your professional development, exchange ideas and then record your development goals in My Development."
+        },
+        "myFeedback": {
+          "title": "Welcome in My Feedback",
+          "text": "An open feedback culture and a continuous development culture are important to us at Swisscom. My Feedback provides every employee with a 360° feedback instrument with a structured questionnaire. Would you like to know where you stand in the dimensions of the Swisscom Story? How others experience your customer orientation, agility and simplicity? My Feedback will tell you: Use this opportunity to get feedback from different perspectives and work on your development based on that."
+        },
+        "marketplace": {
+          "title": "Welcome in the Marketplace",
+          "text": "Marketplace gives you access to exciting projects throughout the organization. This allows you to bring your skills to bear where they are needed or to gain new skills and experience on a selective basis. Development happens more and more on the job and you never learn better than with concrete tasks. Through marketplace projects you can get in touch with like-minded people or get to know completely different people. This way you expand your network and discover new ways. Of course, you can also post your own projects in the Marketplace and thus inspire the talents within the organization for your topics."
+        },
+        "myContribution": {
+          "title": "Welcome in My Contribution",
+          "text": "My Contribution gives you the framework for determining and coordinating your contributions with your team colleagues and managers. You get a lot of flexibility and responsibility in steering your own performance. Of course, you will achieve more if your contributions are matching with those of your work environment, and My Contribution supports you in this. Get regular feedback and discuss  it with your team colleagues at the My Impact Checkpoints."
+        },
+        "swisscompulse": {
+          "title": "Welcome in Pulse",
+          "text": "To stay fit, we regularly feel our pulse and learn how we can constantly optimize our interaction and our working environment. 7 questions, 10 minutes expenditure of time, 2 times annually - and directly after the filling out the evaluation with all comments is ready. With Pulse you reflect regularly and consciously on your daily work routine: you think about what you particularly like - and which changes you wish for and record them in the comments. Based on your suggestions and the ideas of your team colleagues, improvement measures can then be initiated in the team and the common working environment can be further developed. Through continuous feedback we can learn from each other, strengthen the cooperation in the team and across teams and also develop further as an organisation. Trust is essential for a good cooperation, as well as curiosity for other perspectives. In keeping with Swisscom's values."
+        },
+        "developmentcheckpoint": {
+          "title": "Welcome in the Development Checkpoint",
+          "text": "At least once a year you and your manager focus on your professional development in the Development Checkpoint. You are responsible for your own development, and your manager supports and coaches you in doing so. As preparation for the development checkpoint, you can now - on a voluntary basis - fill in My Employability. This questionnaire is intended for you personally and provides you with important information about your employability. In the next step, your self-reflection is supplemented by the external view of your manager.  Together you discuss your possible direction of development and agree on specific development measures. This can be an assignment on the marketplace, internal further training at the Leadership Academy, external further training, the further development of your skills on the job or an aspired development step into a new role within or outside Swisscom. The Development Checkpoint and the definition of your development goals are a prerequisite for you as an employee to receive the 5 training days. Your development goals and the corresponding measures are listed under My Development. In addition, you can define, plan and log development discussions with one or more people you have selected. All your thoughts and next steps for your personal development are documented in one place and always at hand."
+        },
+        "employabilitycheck": {
+          "title": "Welcome in My Employability",
+          "text": "At least once a year you and your manager focus on your professional development in the Development Checkpoint. You are responsible for your own development, and your manager supports and coaches you in doing so. As preparation for the development checkpoint, you can now - on a voluntary basis - fill in My Employability. This questionnaire is intended for you personally and provides you with important information about your employability. In the next step, your self-reflection is supplemented by the external view of your manager.  Together you discuss your possible direction of development and agree on specific development measures. This can be an assignment on the marketplace, internal further training at the Leadership Academy, external further training, the further development of your skills on the job or an aspired development step into a new role within or outside Swisscom. The Development Checkpoint and the definition of your development goals are a prerequisite for you as an employee to receive the 5 training days. Your development goals and the corresponding measures are listed under My Development. In addition, you can define, plan and log development discussions with one or more people you have selected. All your thoughts and next steps for your personal development are documented in one place and always at hand."
+        }
+      }
+    }
+  },
+  "contributions": {
+    "creation_date_label": "Creation date",
+    "target_date_label": "Target date",
+    "status": {
+      "completed": "completed",
+      "active": "active",
+      "no_longer_needed": "No longer needed"
+    },
+    "list": {
+      "total_contributions_singular": "Showing 1 contribution",
+      "total_contributions_plural": "Showing {{contributions}} contributions",
+      "new_contribution_label": "Create new contribution",
+      "filter_label": "Filter contributions"
+    },
+    "detail": {
+      "share_button": "Share",
+      "progress_label": "Progress ({{progress}})",
+      "description_label": "Description",
+      "managers_dialogue_label": "Manager's dialogue",
+      "feedback_label": "Feedback",
+      "replay_label": "Replay",
+      "details_label": "Details",
+      "title_label": "Title",
+      "status_label": "Status"
+    }
+  }
+}
+
